@@ -1,8 +1,12 @@
 # INTRODDUCTION TO PYTHON FOR MACHINE LEARNING 
 
-This banks the learning code and assessment through the Stage A 
+This banks the learning code and assessment throughout the Stage A 
 
-# Assessment 
+# Project set by Hamoye 
+
+As a first step towards a productive career as a data professional, you have been assigned a project with dataset from the Food and Agriculture Organization of the United Nations.
+
+# Dataset for Assessment 
 
 The data used for the assessment is FoodBalanceSheets csv file
 
@@ -10,9 +14,11 @@ The data used for the assessment is FoodBalanceSheets csv file
 
 The questions were coined by Hamoye to solve Business Problems
 
-# Data Provided by
+# Dataset Provided by
 
 Hamoye 
+
+
 
  
 
